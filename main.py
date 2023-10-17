@@ -5,6 +5,7 @@ def add(a: int, b: int) -> int:
 
 def main() -> None:
     print("Bye world")
+    print(321432)
 
 
 if __name__ == "__main__":
